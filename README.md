@@ -15,10 +15,10 @@
 </div>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/marianozorrilla/" target=”_blank”>
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ <a href="https://www.linkedin.com/in/nahid-nsu152" target=”_blank”>
+  <img align="center" alt="Nahid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
    
-     <br/>
+  <br/>
   <br/>
   Thanks for stopping by 🦄<br/>
  </a> </p>
