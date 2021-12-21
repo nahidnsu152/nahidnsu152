@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+
 <!--
 **nahidnsu152/nahidnsu152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
