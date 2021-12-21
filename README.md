@@ -9,18 +9,16 @@
         </ul>
       </p>	
       <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
-      
       <div align="center">
         <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
-      </div>
-      
+      </div> 
     <p align="center">
        <a href="https://www.linkedin.com/in/nahid-nsu152" target=”_blank”>
         <img align="center" alt="Nahid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
         </a>
         <br/>
         <br/>
-        <p> hanks for stopping by 🦄 </p> 
+        <p> Thanks for stopping by 🦄 </p> 
         <br/>
        </a> 
     </p>
