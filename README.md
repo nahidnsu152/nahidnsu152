@@ -18,7 +18,7 @@
         </a>
         <br/>
         <br/>
-        <p> Thanks for stopping by 🦄 </p> 
+        <Center> <p> Thanks for stopping by 🦄 </p>  </Center>
         <br/>
        </a> 
     </p>
