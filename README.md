@@ -1,4 +1,13 @@
-<p align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p align="center">
         <ul>
           <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
           <h1 align="center">Hi 👋, I'm Nazmul Hasan </h1>
@@ -15,13 +24,21 @@
     <p align="center">
        <a href="https://www.linkedin.com/in/nahid-nsu152" target=”_blank”>
         <img align="center" alt="Nahid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+        </a> 
+        <a href="#" target=”_blank”>
+            <img align="center" alt="Nahid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
+        </a>
+        <a href="#" target=”_blank”>
+                <img align="center" alt="Nahid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
         </a>
         <br/>
         <br/>
-        <Center> <p> Thanks for stopping by 🦄 </p>  </Center>
+        <p align="center"> <b> Thanks for stopping by 🦄  </b> </p>
         <br/>
        </a> 
     </p>
+</body>
+</html>
 <!--
 **nahidnsu152/nahidnsu152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
