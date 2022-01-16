@@ -7,8 +7,8 @@
 </head>
 <body>
     <p align="center">
-        <ul>
-          <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
+        <ul>   
+          <img src="https://github.com/nahidnsu152/nahidnsu152/blob/main/images/1.jpeg" />
           <h1 align="center">Hi 👋, I'm Nazmul Hasan </h1>
           <h1 align="center">Flutter Developer</h1>
           <li> I’m interested in Mobile Application Development.</li>
@@ -34,10 +34,16 @@
         <br/>
         <p align="center"> <b> Thanks for stopping by 🦄  </b> </p>
         <br/>
+        <p align="center">
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnsu152&count_private=true&theme=nord&show_icons=true" alt="Pramod's Github            Stats">
+        </p>
        </a> 
     </p>
 </body>
 </html>
+
+
+
 <!--
 **nahidnsu152/nahidnsu152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
