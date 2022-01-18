@@ -37,8 +37,8 @@
         <p align="center">
        <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnsu152&count_private=true&theme=nord&show_icons=true" alt="Pramod's Github            Stats">
             <br/> <br/> <br/>
-             <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidnsu152&theme=nord"/>
-             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnsu152&layout=compact&theme=nord&langs_count=12"/>
+             <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidnsu152&theme=nord" width="40%" height="50%"/>
+             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnsu152&layout=compact&theme=nord&langs_count=12" width="40%"/>
         </p>
        </a> 
     </p>
