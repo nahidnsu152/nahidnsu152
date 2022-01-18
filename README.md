@@ -35,7 +35,7 @@
         <p align="center"> <b> Thanks for stopping by 🦄  </b> </p>
         <br/>
         <p align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnsu152&layout=compact&theme=nord&langs_count=12" width="45%"> <br/><br/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnsu152&layout=compact&theme=nord&langs_count=12" width="50%"> <br/><br/>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnsu152&count_private=true&theme=nord&show_icons=true" alt="Pramod's Github            Stats">
             <br/> <br/> 
              <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahidnsu152&theme=nord"/> <br/><br/>
