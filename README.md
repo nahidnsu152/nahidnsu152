@@ -25,10 +25,10 @@
         <img align="center" alt="Nahid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
         </a> 
         <a href="#" target=”_blank”>
-            <img align="center" alt="Nahid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
+            <img align="center" alt="Nahid's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
         </a>
-        <a href="#" target=”_blank”>
-                <img align="center" alt="Nahid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
+        <a href="https://www.facebook.com/nahid-nsu152" target=”_blank”>
+                <img align="center" alt="Nahid's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
         </a>
         <br/>
         <br/>
