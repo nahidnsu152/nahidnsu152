@@ -6,6 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+        <p align="center">
+        <ul>   
+            <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
+          <h1 align="center">Hi, I'm Nazmul Hasan </h1>
+          <h1 align="center">Flutter Developer</h1>
+        </ul>
+      </p>	
 <p align=center>
   <div align=center>
     <a href="https://github.com/nahidnsu152/github-readme-streak-stats" title="Go to Source">
