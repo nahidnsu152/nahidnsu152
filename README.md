@@ -30,7 +30,11 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=nahidnsu152&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+
 </p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nahidnsu152&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/nahidnsu152/github-readme-activity-graph)
 
 <hr>
 
@@ -55,6 +59,9 @@
 
 </body>
 </html>
+
+
+
 
 
 
