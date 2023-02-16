@@ -6,17 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-        <p align="center">
-        <ul>   
-            <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
-          <h1 align="center">Hi, I'm Nazmul Hasan </h1>
-          <h1 align="center">Flutter Developer</h1>
-        </ul>
-      </p>	
+<p align="center">
+  <ul>   
+    <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
+      <!-- <h1 align="center">Hi, I'm Nazmul Hasan </h1>
+      <h1 align="center">Flutter Developer</h1> -->
+    </ul>
+</p>	
 
-      <P align=center>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=000&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Hi%2C+I'm+Nazmul+Hasan;Flutter+Developer" alt="Typing SVG" /></a>
-      </P>
+<p align=center>
+  <div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi%2C+I'm+Nazmul+Hasan;Flutter+Developer" alt="Typing SVG" /></a>
+  </div>
+</p>
+
       
 <p align=center>
   <div align=center>
