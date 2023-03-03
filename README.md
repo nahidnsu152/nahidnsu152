@@ -20,8 +20,17 @@
   </div>
 </p>
 
+
+
+
+
+<p align="center">
+  <img height="150" width="150" src="images/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="images/right.webp">
+</p>
       
-<p align=center>
+<!-- <p align=center>
   <div align=center>
     <a href="https://github.com/nahidnsu152/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=nahidnsu152&theme=react&border=61dafb&hide_border=true" alt="nahidnsu152" />
@@ -37,7 +46,7 @@
     </a>
   </div>
   <br>
-</p>
+</p> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nahidnsu152&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/nahidnsu152/github-readme-activity-graph)
 
