@@ -39,7 +39,7 @@
 
 <br> <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=nahidnsu152&theme=react-dark&hide_border=true&area=true)
+[![Nahid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidnsu152&theme=react-dark)](https://github.com/nahidnsu152/github-readme-activity-graph)
 
       
 <!-- <p align=center>
